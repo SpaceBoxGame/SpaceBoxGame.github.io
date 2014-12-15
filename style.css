@@ -1,0 +1,125 @@
+*{ margin: 0; padding: 0; }* 
+
+body { 
+	font: .74em Verdana, Arial, "Trebuchet MS", Tahoma, sans-serif; 
+	line-height: 1.6em;
+	background: #808080 url(images/bg.gif) repeat-x; 
+	color: #444; 
+}
+
+a {	
+	color: #317486; background: inherit; text-decoration: none; 
+}
+
+a:hover { 
+color: #808080; background: inherit; 
+}
+
+p { 
+	margin: 0 0 15px 0; 
+}
+
+h1 { 
+	font: bold 1.7em Arial, Sans-Serif;  margin: 20px 0 0; color: #fff;
+}
+
+h1 a:hover { 
+	color: #fff; background: inherit; 
+}
+
+h2 { 
+	font: bold 1.6em Arial, Sans-Serif; margin: 0 0 12px; 
+}
+
+h4 { 
+	color: #808080; background: inherit; font-weight: normal; font-size: .9em; 
+}
+
+#content { 
+	width: 900px; margin: 0 auto;
+}
+
+#logo { 
+	margin: 120px 0 0 0; height: 66px; width: 240px; float: left; background: url(images/logobg.gif) no-repeat bottom; text-align: center;
+}
+
+#spaceCash{
+height: 128px; width 128px;
+ background: url(images/spaceBox.png) no-repeat;
+ background-position: center 200%; 
+}
+
+#menu { 
+	float: right; padding: 140px 0 0; margin: 0 0 18px;  
+}
+#menu li { 
+	font-size: 1.1em; display: inline;
+}
+#menu li a { 
+	padding: 30px 15px 0px 0; margin: 0 0 0 50px; color: #fff; height: 44px; border-bottom: 2px solid #a5a5a5;  
+}
+#menu li a:hover { 
+	 border-bottom: 3px solid #d3d3d3; 
+}
+
+#intro { 
+	clear: both;
+	color: #4C8734;
+	height: 170px;
+	margin: 0 0 20px;
+	padding: 0px 0px 0 0;
+	text-align: right;
+}
+	#intro h1 { 
+	margin: 0; 
+}
+	#intro p { 
+	margin: 0; 
+}
+
+#left { 
+	clear: left; float: left; width: 240px; padding: 60px 34px 0 15px; font-size: .9em; margin: 0 0 15px; 
+	}
+	#leftmenu { 
+	list-style: none; margin: 0 0 20px 0; 
+	}
+	#leftmenu li { 
+	padding: 0 0 0 12px; background: #fff url(images/bullet.gif) no-repeat center left; color: #46852F; 
+	}
+	#leftmenu li a { 
+	background: #EAFFE3; color: #46852F; 
+	}
+
+#right {
+	margin: 60px 15px 20px 0;
+	padding: 0 0 0 35px;
+	border-left: 1px solid #ccc;
+	float: right;
+	width: 560px;
+	text-align: justify;
+}
+	#left a, #right a { 
+        color: #fff; 
+}
+	#left h3 { 
+	border-bottom: 1px solid #eee; padding: 0 0 7px; margin: 0 0 15px 0; 
+}
+	#right h2 {
+	border-bottom: 1px solid #ccc; padding: 0 0 8px; 
+}
+
+#footer { 
+	clear: both; border-top: 1px solid #ccc; padding: 425px 0; margin: 0 0 0px; font-size: .9em; color: #808080; background: #fff; 
+}
+	#footer a { 
+	color: #4CA031; background: #fff; 
+}
+	#col1 { 
+	float: left; width: 250px; padding: 0 0 15px; margin: 0px 0px 10px; 
+}
+	#col2 { 
+	float: left; width: 250px; border-left: 1px solid #ccc; padding: 7px 0 0 40px; 
+}
+	#col3 { 
+	float: right; width: 250px; border-left: 1px solid #ccc; padding: 7px 0 0 40px; 
+}
