@@ -28,7 +28,7 @@
 	
 			<div id="right">
 			<h2>Version d12.09.01</h2>
-			<form action="http://www.mediafire.com/download/i06y16qbuc2bbez/Public+Test+Version+d12.09.01.zip">
+			<form action="http://goo.gl/LZ5EBK">
   			<center>
 			<input type="image" src="images/downloadButton.png" alt="Download">
 			<p><a href="/spacebox/changelog">changelog</a></p>
