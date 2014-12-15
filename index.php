@@ -34,7 +34,6 @@
 			<p><a href="/spacebox/changelog">changelog</a></p>
 			</center>
 			</form>
-			Mediafire is used to keep my server clean, and providing a backlog of old versions.
 
 			<div style="clear: both"></div>
 		</div>
